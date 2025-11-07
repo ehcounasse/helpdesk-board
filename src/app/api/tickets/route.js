@@ -49,7 +49,7 @@ export async function GET(){
             id: 't-1006',
             title: 'Wifi deadzone in oval office.',
             description: 'Weak signal in oval office',
-            priority: 'High',
+            priority: 'Critical',
             status:'In Progress',
             assignee:'Ethan Counasse',
             updatedAT:'2025-11-17T23:12:00Z'
@@ -95,7 +95,7 @@ export async function GET(){
         title: 'Security alert',
         description: 'Multiple failed login attempts from foreign IP.',
         priority:'High',
-        status: 'In Progress',
+        status: 'On Hold',
         assignee: 'Kenny Thompson',
         updatedAT: '2025-07-11T21:12:00Z'
        },
