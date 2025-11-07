@@ -1,6 +1,6 @@
 'use client';
 
- import TicketCard from './components/TicketCard'
+ import TicketCard from './TicketCard'
 
  export default function TicketList({tickets, queueMap, onAddToQueue}) {
     return(
